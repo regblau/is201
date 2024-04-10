@@ -1,0 +1,19 @@
+body{
+    font-family: monospace;
+}
+.site-heading-lower{
+    font-family: monospace;
+}
+.mb-3{
+    font-family: monospace;
+    color:darkgoldenrod !important;
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px 
+}
+.section-heading-lower{
+    box-shadow: rgba(red, green, blue, alpha)
+}

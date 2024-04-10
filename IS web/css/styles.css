@@ -1,0 +1,56 @@
+body {
+    background-color: darkseagreen;
+    color: sienna;
+    /*text color*/
+    font-family: monospace;
+}
+
+h1 {
+    font-family: monospace;
+    text-align: center;
+    font-size: 30pt;
+}
+
+h5 {
+    display: inline;
+    font-style: italic;
+    text-align: center;
+    font-size: 14pt;
+    background-color: bisque;
+    opacity: 80%;
+    font-weight: bolder;
+}
+
+a {
+    color: sienna
+}
+
+a:visited {
+    color: bisque
+}
+
+img {
+    border: 2px solid brown;
+    padding: 3px;
+    margin: 2px;
+    /*centers stuff*/
+    /* display: block;
+    margin: auto; */
+}
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+.rizz{
+    boarder: 2px solid sienna;
+    Padding: 2px;
+    font-family: monospace;
+    font-size: 12pt;
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
